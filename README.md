@@ -1,11 +1,11 @@
-Olá!<br>
+<h1>Olá!<h1/><br>
 
 Sou o Dionízio Inácio!<br>
 <br>
 Engenheiro de Controle e Automação - UFOP<br> 
 <br>
-Estudante das tecnologias Front-end <img src="https://alonza.com.br/wp-content/uploads/2021/07/linguagens-front-end.png" width=100px/><br> 
-<br>
+Estudante das tecnologias Front-end <br><img src="https://alonza.com.br/wp-content/uploads/2021/07/linguagens-front-end.png" width=100px/><br> 
+
 
 
 
