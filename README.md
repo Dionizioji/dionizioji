@@ -1,5 +1,4 @@
 
-<div style = "background-image: url(https://github.com/Dionizioji/dionizioji/blob/main/TECHNOLOGY2.png?raw=true)">
 <p>Olá! Sou o Dionízio Inácio!<p/>
 <p>Engenheiro de Controle e Automação - UFOP<p/> 
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
@@ -15,6 +14,5 @@
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/NODE.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/SASS.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MYSQL.png?raw=true" width=50px/>
-</div>
  
 
