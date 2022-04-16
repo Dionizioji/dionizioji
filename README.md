@@ -1,5 +1,5 @@
 
-<div style = "background-color: green">
+<div style = "background-image: url()">
 <p>Olá! Sou o Dionízio Inácio!<p/>
 <p>Engenheiro de Controle e Automação - UFOP<p/> 
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
