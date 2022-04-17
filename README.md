@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=200px/>
 
 <p>:raising_hand_man: Olá! Sou o Dionízio Inácio!<p/>
-<p>:mortar_board: Engenheiro de Controle e Automação - UFOP <img src="https://github.com/Dionizioji/dionizioji/blob/main/TECH2.png?raw=true" width=200px/><p/>
+<p>:mortar_board: Engenheiro de Controle e Automação - UFOP<p/>
 
 <p><img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MATLAB.png?raw=true" width=50px/>
