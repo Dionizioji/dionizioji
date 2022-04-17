@@ -26,6 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)" />
 </a>
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/>
