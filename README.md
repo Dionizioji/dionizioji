@@ -21,5 +21,5 @@
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/SASS.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MYSQL.png?raw=true" width=50px/></p>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/dionizioji/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&layout=compact)](https://github.com/dionizioji/github-readme-stats)
 
