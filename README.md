@@ -2,7 +2,7 @@
 
 <p>Olá! Sou o Dionízio Inácio!<p/>
 <p>Engenheiro de Controle e Automação - UFOP<p/>
-<p>*******************************************************************************************************************************************************</p><br>
+<p>*******************************************************************************************************************************************************</p>
 <p><img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MATLAB.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/PYTHON.png?raw=true" width=50px/>
