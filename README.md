@@ -22,4 +22,4 @@
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MYSQL.png?raw=true" width=50px/></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionizioji)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=cobalt)
