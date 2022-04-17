@@ -3,11 +3,11 @@
 <p>Olá! Sou o Dionízio Inácio!<p/>
 <p>Engenheiro de Controle e Automação - UFOP<p/>
 <p>*******************************************************************************************************************************************************</p><br>
-<img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
+<p><img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MATLAB.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/PYTHON.png?raw=true" width=50px/>
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/ARDUINO.png?raw=true" width=50px/>
-<img src="https://github.com/Dionizioji/dionizioji/blob/main/C++.png?raw=true" width=50px/>
+<img src="https://github.com/Dionizioji/dionizioji/blob/main/C++.png?raw=true" width=50px/><p/>
 <p>*******************************************************************************************************************************************************</p><br>
 <p>Estudante das tecnologias de Desenvolvimento WEB<p/> 
 <p>*******************************************************************************************************************************************************</p><br>
