@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=50px/>
+<img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=200px/>
 
 <p>Olá! Sou o Dionízio Inácio!<p/>
 <p>Engenheiro de Controle e Automação - UFOP<p/>
