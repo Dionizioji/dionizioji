@@ -23,9 +23,9 @@
 <img src="https://github.com/Dionizioji/dionizioji/blob/main/MYSQL.png?raw=true" width=50px/></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=dracula" />
 </a>
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/>
