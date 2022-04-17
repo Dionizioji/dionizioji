@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=200px/>
-
-<p>:raising_hand_man: Olá! Sou o Dionízio Inácio!<p/>
+:raising_hand_man: 🤓 🖥️ 
+<h3>Hi! I'am Dionízio Inácio!</h3>
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
 
 <p><img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
