@@ -28,5 +28,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&layout=compact" />
 </a>-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=powershell,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=powershell,html)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/>
