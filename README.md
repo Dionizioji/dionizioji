@@ -5,7 +5,7 @@
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
 
 <p><img src="https://img.shields.io/badge/LABVIEW-FFCBDB?style=for-the-badge&logo=LABVIEW&logoColor=white" width=100px/>
-<img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=Matlab&logoColor=white" width=70px/>
+<img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=MatLAB&logoColor=white" width=70px/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=90px/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=65px/><p/>
 
@@ -24,7 +24,8 @@
 <p>Lecionei robótica e conceitos iniciais de proramação para crianças por 2 anos no Colégio Arquidiocesano de Ouro Preto.</p>
 <p>Durante esse período utilizei as seguintes tecnologias:</P>
 <p><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" width=100px/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=100px/></p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=100px/>
+<img src="https://img.shields.io/badge/LEGO_MINDSTORMS-A8CCE8?style=for-the-badge&logo=Lego&logoColor=white" width=145px/></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
