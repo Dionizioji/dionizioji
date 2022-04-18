@@ -21,8 +21,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width=70px/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width=80px/></p>
 
-<p>Lecionei robótica e conceitos iniciais de proramação para crianças por 2 anos no Colégio Arquidiocesano de Ouro Preto.</p>
-<p>Durante esse período utilizei as seguintes tecnologias:</P>
+<p>Lecionei robótica e conceitos iniciais de proramação para crianças por 2 anos no Colégio Arquidiocesano de Ouro Preto. Durante esse período utilizei as seguintes tecnologias:</P>
 <p><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" width=100px/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=100px/>
 <img src="https://img.shields.io/badge/LEGO_MINDSTORMS-A8CCE8?style=for-the-badge&logo=Lego&logoColor=white" width=145px/></p>
