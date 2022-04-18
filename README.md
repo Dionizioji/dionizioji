@@ -36,7 +36,7 @@
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/>
 
 
-Utilíssimos:
+📝 ✏️ Utilíssimos 🖋️ 📝
 <p><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width=80px>
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" width=100px>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width=100px>
