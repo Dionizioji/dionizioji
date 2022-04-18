@@ -33,3 +33,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=dracula" />
 </a>
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/>
+
+
+Utilíssimos:
+<p><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width=80px>
+<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" width=100px>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width=100px>
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width=100px>  
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width=100px>
+</p> 
