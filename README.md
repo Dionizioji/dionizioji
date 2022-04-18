@@ -23,8 +23,8 @@
 
 <p>Lecionei robótica e conceitos iniciais de proramação para crianças por 2 anos no Colégio Arquidiocesano de Ouro Preto.</p>
 <p>Durante esse período utilizei as seguintes tecnologias:</P>
-<p><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" width=80px/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=80px/></p>
+<p><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" width=100px/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=100px/></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
