@@ -1,13 +1,13 @@
 
 <img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=200px/>
 :raising_hand_man: 🤓 🖥️ 
-<h3><img src='https://img.shields.io/badge/Hi! Im Dionízio Inácio!-00A98F?style=for-the-badge&logo=About.me&logoColor=white)' width=300px/></h3>
+<h3><img src='https://img.shields.io/badge/Hi! Im Dionízio Inácio!-9957CD?style=for-the-badge&logo=None&logoColor=white)' width=300px/></h3>
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
 
-<p><img src="https://github.com/Dionizioji/dionizioji/blob/main/LABVIEW.png?raw=true" width=50px/>
-<img src="https://github.com/Dionizioji/dionizioji/blob/main/MATLAB.png?raw=true" width=50px/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=80px/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=60px/><p/>
+<p><img src="https://img.shields.io/badge/LABVIEW-FFCBDB?style=for-the-badge&logo=LABVIEW&logoColor=white" width=100px/>
+<img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=Matlab&logoColor=white" width=70px/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=90px/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=65px/><p/>
 
 <p>:desktop_computer: Estudante das tecnologias de Desenvolvimento WEB<p/> 
 
