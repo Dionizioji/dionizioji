@@ -1,7 +1,7 @@
 
 <p><img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/UPHAND.png?raw=true" width=200px/></p>
 <p>:raising_hand_man: 🤓 🖥️ </p>
-<h3 align="center"><img src='https://img.shields.io/badge/Hi! Im Dionízio Inácio!-9957CD?style=for-the-badge&logo=None&logoColor=white)' width=300px/></h3>
+<h3 align="left"><img src='https://img.shields.io/badge/Hi! Im Dionízio Inácio!-9957CD?style=for-the-badge&logo=None&logoColor=white)' width=300px/></h3>
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
 
 <p><img src="https://img.shields.io/badge/LABVIEW-FFCBDB?style=for-the-badge&logo=LABVIEW&logoColor=white" width=100px/>
@@ -24,7 +24,7 @@
 <p>Lecionei robótica e conceitos iniciais de programação para crianças por 2 anos no Colégio Arquidiocesano de Ouro Preto. Durante esse período utilizei as seguintes tecnologias:</P>
 <p><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" width=100px/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" width=100px/>
-<img src="https://img.shields.io/badge/LEGO_MINDSTORMS-A8CCE8?style=for-the-badge&logo=Lego&logoColor=white" width=145px/></p>
+<img src="https://img.shields.io/badge/LEGO_MINDSTORMS EV3-A8CCE8?style=for-the-badge&logo=Lego&logoColor=white" width=170px/></p>
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img style= "height : 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width=100px>
 </p> 
 
-<p align="center">GOMU GOMU NOOOOO...LET'S CODE!
+<p align="left">GOMU GOMU NOOOOO...LET'S CODE!
 <img align="center" src="https://github.com/Dionizioji/dionizioji/blob/main/LUFFY.webp?raw=true" width=200px/>
 </p>
 
