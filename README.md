@@ -33,7 +33,7 @@
   <img style= "height: 200px; weight: 270px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=dracula" />
 </a></p>
 
-📝 ✏️ Utilíssimos 🖋️ 📝
+<p>📝 ✏️ I'm always studing english and reading/watching/listening something about technologies and innovation! And...One Piece, off course! 🙃 🖋️ 📝</p>
 <p><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width=80px>
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" width=100px>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width=100px>
