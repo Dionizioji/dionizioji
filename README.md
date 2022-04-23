@@ -42,3 +42,5 @@
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width=100px>  
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width=100px>
 </p> 
+
+<p>GOMU GOMU NOOOOO...LET'S CODE!</p>
