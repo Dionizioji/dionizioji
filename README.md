@@ -27,10 +27,10 @@
 <img src="https://img.shields.io/badge/LEGO_MINDSTORMS EV3-A8CCE8?style=for-the-badge&logo=Lego&logoColor=white" width=170px/></p>
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style= "height : 200px" align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
+  <img style= "height: 200px; weight: 270px" align="center" src="https://github-readme-stats.vercel.app/api?username=dionizioji&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img style= "height : 200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=dracula" />
+  <img style= "height: 200px; weight: 270px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionizioji&hide=PowerShell&layout=compact&theme=dracula" />
 </a></p>
 
 📝 ✏️ Utilíssimos 🖋️ 📝
