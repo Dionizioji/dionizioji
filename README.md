@@ -42,7 +42,7 @@
 </p> 
 
 <p align="left">GOMU GOMU NOOOOO...LET'S CODE!
-<img align="center" src="https://github.com/Dionizioji/dionizioji/blob/main/LUFFY.webp?raw=true" width=200px/>
+<img style = "height: 100px; width: 130px" align="left" src="https://github.com/Dionizioji/dionizioji/blob/main/LUFFY.webp?raw=true" width=200px/>
 </p>
 
 
