@@ -3,6 +3,7 @@
 <p>:raising_hand_man: 🤓 🖥️ </p>
 <h3 align="left"><img src='https://img.shields.io/badge/Hi! Im Dionízio Inácio!-9957CD?style=for-the-badge&logo=None&logoColor=white)' width=300px/></h3>
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
+<p>Especialista em Inteligência Artificial IFMG-OP<p/> 
 
 <p><img src="https://img.shields.io/badge/LABVIEW-FFCBDB?style=for-the-badge&logo=LABVIEW&logoColor=white" width=100px/>
 <img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=MatLAB&logoColor=white" width=70px/>
