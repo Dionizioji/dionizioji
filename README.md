@@ -5,10 +5,7 @@
 <p>:mortar_board: Engenheiro de Controle e Automação - UFOP 🤖<p/>
 <p>:mortar_board: Especialista em Inteligência Artificial - IFMG-OP &#128187<p/> 
 
-<p><img src="https://img.shields.io/badge/LABVIEW-FFCBDB?style=for-the-badge&logo=LABVIEW&logoColor=white" width=100px/>
-<img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=MatLAB&logoColor=white" width=70px/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width=90px/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=65px/><p/>
 
 <p>:desktop_computer: Estudante das tecnologias de Desenvolvimento WEB<p/> 
 
