@@ -39,9 +39,4 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width=100px>
 </p> 
 
-<p align="left">GOMU GOMU NOOOOO...LET'S CODE!
-<img style = "height: 100px; width: 130px" align="left" src="https://github.com/Dionizioji/dionizioji/blob/main/LUFFY.webp?raw=true" width=200px/>
-</p>
-
-
 <p><img align="right" src="https://github.com/Dionizioji/dionizioji/blob/main/DOWNHAND.png?raw=true" width=200px/></p>
